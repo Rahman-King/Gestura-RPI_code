@@ -1,7 +1,7 @@
 
 ---
 
-# Team Gestura 🤟 – ASL Gesture Detection Web App
+# Team Gestura 🤟 – ASL Gesture Detection
 
 **Breaking Barriers, One Gesture at a Time**
 
