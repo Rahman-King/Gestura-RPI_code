@@ -53,7 +53,7 @@ The app is designed to make **communication with the hearing-impaired easier** a
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/rpi3b.git
+git clone https://github.com/yourusername/Gestura-RPI_code
 cd gestura-app
 ```
 
